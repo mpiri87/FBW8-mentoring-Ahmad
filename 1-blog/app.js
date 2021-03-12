@@ -125,7 +125,7 @@ app.post("/contact", (req, res) => {
       }
     }
   );
-});
+}); // for the best result next time clone it completely from ahmads github! 05.03.21
 
 app.get("/marketing", (req, res) => {
   // console.log(__dirname);
